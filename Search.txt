@@ -1,0 +1,18 @@
+1. 상품 정하기
+
+ 상품 이름 : Nvidia Geforce RTX5060 8GB
+
+카테고리 : 전자기기
+
+2. 상품 이미지 찾기
+
+이미지 주소 (2개)
+
+이미지1:https://tpucdn.com/review/msi-geforce-rtx-5060-gaming-oc/images/title.jpg
+이미지2:https://storage-asset.msi.com/global/picture/product/product_17452877802adc1ee82075afaeea7d2a2dcf366cb9.webp
+
+3. 상품을 홍보하는 사이트 3개 찾기
+
+참고 사이트 주소1:https://kr.msi.com/Graphics-Card/GeForce-RTX-5060-8G-VENTUS-2X-OC/Specification
+참고 사이트 주소2:https://prod.danawa.com/info/?pcode=90956033
+참고 사이트 주소3:https://www.compuzone.co.kr/product/product_detail.htm?ProductNo=1242692
